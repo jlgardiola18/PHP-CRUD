@@ -1,9 +1,9 @@
 <?php
 
-    $server = "localhost";
-    $username = "root";
-    $password = "12345";
-    $dbname = "phpcrud";
+    $server = "sql12.freesqldatabase.com";
+    $username = "sql12765164";
+    $password = "6YhCRCwI6t";
+    $dbname = "sql12765164";
 
     $conn = new mysqli($server, $username, $password, $dbname);
 
