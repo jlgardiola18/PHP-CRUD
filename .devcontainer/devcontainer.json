@@ -1,0 +1,14 @@
+{
+    "name": "PHP Docker Environment",
+    "dockerFile": "Dockerfile",
+    "appPort": [80],
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+      "ms-php.php-debug",
+      "felixfbecker.php-intellisense",
+      "esbenp.prettier-vscode"
+    ]
+  }
+  
